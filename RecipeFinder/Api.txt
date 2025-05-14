@@ -1,0 +1,7 @@
+Api Link
+
+https://www.themealdb.com/api/json/v1/1/search.php?s=${search_text}
+
+ingredients Api Link
+
+https://www.themealdb.com/meal/${meal.idMeal}
