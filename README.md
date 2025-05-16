@@ -1,6 +1,6 @@
  🍽️ **Recipe Finder**
 
-Recipe Finder is a simple and intuitive web application that helps users find delicious recipes based on ingredients, cuisine, or dish names. Whether you're a home cook or just hungry and curious, this app makes discovering meals easy and fun!
+Recipe Finder is a simple and intuitive web application that helps users find delicious recipes based on dish names. Whether you're a home cook or just hungry and curious, this app makes discovering meals easy and fun!
 ---
 
 🔍 **Features**
@@ -20,4 +20,4 @@ Recipe Finder is a simple and intuitive web application that helps users find de
  🛠️ **Tech Stack**
 
 - Frontend: js / HTML / CSS
-- API: [TheMealDB](https://www.themealdb.com/) or any recipe API
+- API: https://www.themealdb.com/api.php 
